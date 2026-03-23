@@ -1,2 +1,2 @@
-# gwas-mini-pipeline
-A simplified GWAS workflow in R including data cleaning, basic association analysis and Manhattan plot visualisation
+# GWAS Meta-Analysis Mini Pipeline
+This repository demonstrates a simplified workflow for performing a meta-analysis of GWAS data, inspired by my honours project on breast cancer in African populations.
